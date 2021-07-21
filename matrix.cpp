@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-{
+{   // henry kanagisa
 	int i,j,k,l,first[10][10],second[0][10],sum[10][10];
 	printf("enter no of row and column for first matrix ");
 	scanf("%d%d",&k,&l);
